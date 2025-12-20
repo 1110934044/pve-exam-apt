@@ -1,14 +1,14 @@
 Package: pve-exam-helper
-Version: 1.0.0
+Version: 1.0.1
 Architecture: all
 Maintainer: 1110934044
-Depends: bash, coreutils, util-linux, less
-Filename: pool/pve-exam-helper_1.0.0_all.deb
-Size: 2034
-MD5sum: 5bc7e0b29622a779d36a911770b17afa
-SHA1: 13e048a6eb0de48dd0ae5ad92289127a5a1feb00
-SHA256: bf8c60d5cbfcc8856e804b4b841b285b067bc287ebfd215c545083f532aa5af5
+Depends: bash, coreutils, util-linux, less, dialog
+Filename: pool/pve-exam-helper_1.0.1_all.deb
+Size: 2458
+MD5sum: c61962673eca03a61db5cfef8296f9a7
+SHA1: 7ccb740a3d859200a9d083d91bf617a27f41de7d
+SHA256: 3673acaa9113aeb27e26ec601850a5b24883e125ba3ea03909ae9e6cc6ea1ad1
 Section: utils
 Priority: optional
-Description: Debian12->PVE8 exam cheat sheet viewer (copy-friendly)
+Description: PVE exam menu helper (copy-friendly on local TTY)
 
