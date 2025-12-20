@@ -1,14 +1,14 @@
 Package: pve-exam-helper
-Version: 1.0.1
+Version: 1.0.2
 Architecture: all
 Maintainer: 1110934044
 Depends: bash, coreutils, util-linux, less, dialog
-Filename: pool/pve-exam-helper_1.0.1_all.deb
-Size: 2458
-MD5sum: c61962673eca03a61db5cfef8296f9a7
-SHA1: 7ccb740a3d859200a9d083d91bf617a27f41de7d
-SHA256: 3673acaa9113aeb27e26ec601850a5b24883e125ba3ea03909ae9e6cc6ea1ad1
+Filename: pool/pve-exam-helper_1.0.2_all.deb
+Size: 3336
+MD5sum: 99dd1aa28d2ffd79be8faadd0940b0ba
+SHA1: 60495d38acaf6212e60fc0b8c86beb30095b8cac
+SHA256: 1ae52a5ad6ebbe9738a0627247f7f59099cc6a7cc8e1988883a87edb36d708aa
 Section: utils
 Priority: optional
-Description: PVE exam menu helper (copy-friendly on local TTY)
+Description: PVE exam helper (menu: copy or run; editable vars and commands)
 
